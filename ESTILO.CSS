@@ -1,9 +1,7 @@
 body{
 		
-		background-repeat: round;
-
-		
-		}
+	background: Anime.jpg;
+}
 
 .contect{
 
@@ -89,7 +87,4 @@ td,th{
   	margin-left: 13px;
   	font-size: 20px;
 
- 	
-  
-
-}
+ }
