@@ -52,25 +52,11 @@ ul, li{
 
  }
 
-  .Menu{
 
- 	position: absolute;
- 	right: 8%;
-        top: 1%;
-
- }
-
-  .Menu{
-
-  	display: inline-block;
-  	margin-left: 13px;
-  	font-size: 20px;
-	position: absolute;
- 	right: 8%;
-        top: 1%;
-	float: left;
 }
 
-
+#Akira Toriyama{
+	height="380"
+}
 
 
