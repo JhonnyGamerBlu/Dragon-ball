@@ -50,7 +50,7 @@ ul li{
 
  }
 
-  .menu{
+  #Menu{
 
  	position: absolute;
  	right: 8%;
@@ -58,7 +58,7 @@ ul li{
 
  }
 
-  .menu ul, li{
+  #Menu
 
   	display: inline;
   	margin-left: 13px;
