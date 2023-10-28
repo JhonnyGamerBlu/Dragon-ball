@@ -51,42 +51,20 @@ ul, li{
  	position: absolute;
  	right: 8%;
         top: 1%;
-
- }
-
-  .Menu
-
-  	display: inline;
+	display: inline-block;
   	margin-left: 13px;
   	font-size: 20px;
 
+
  }
 
-ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
+  .Menu{
+
+  	display: inline-block;
+  	margin-left: 13px;
+  	font-size: 20px;
 }
 
 
-nav ul {
-    display: flex; /* Torna a lista um flex container */
-    justify-content: space-around; /* Espaço igual entre os itens */
-}
 
-nav li {
-    margin: 0;
-}
 
-nav a {
-    text-decoration: none; /* Remova sublinhados dos links */
-    padding: 10px 20px; /* Espaçamento interno para cada item do menu */
-    background-color: #333; /* Cor de fundo do item do menu */
-    color: #fff; /* Cor do texto */
-    border-radius: 5px; /* Borda arredondada */
-}
-
-/* Estilize os links quando o mouse estiver sobre eles */
-nav a:hover {
-    background-color: #555;
-}
