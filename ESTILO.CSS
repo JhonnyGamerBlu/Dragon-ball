@@ -46,18 +46,33 @@ ul, li{
  	background-color: rgba(0,0,0);
 
 
- 		}
-
-  .menu{
-  	 text-align: center;
-
  }
 
 
-}
 
 #Akira Toriyama{
 	height="380"
 }
+
+#Menu-h{
+  list-style: none;
+  padding: 0;
+}
+
+#Menu-h li{
+  display: inline;
+}
+
+#Menu-h li a{
+  color: #6959CD;
+  display: inline-block;
+  padding: 20px;
+}
+
+#Menu-h li a:hover{
+  color: #191970;
+  float: right;
+}
+
 
 
